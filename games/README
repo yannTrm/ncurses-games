@@ -1,0 +1,38 @@
+This project was made by Yann TERROM (Promo 2024 LILLE)
+In this project I wanted to gather every code (game) made in Innovation lesson so that every can enjoy throw the year every single susu game
+
+
+
+This directory is structured as follows:
+
+Innovation
+   |
+   |----> games              -- directory with all the games
+   |----> exe                -- exe file (exe.sh)
+   |----> include            -- header (include and proto)
+   |----> obj                -- main.o
+   |----> all                -- 
+   |----> main.c             -- main program
+   |----> sos                -- executable file in case of window break  (./sos)
+   |----> Makefile           -- the top level Makefile
+   |----> README             -- the top level README file. contains instructions
+   |			             -- to create executables for example programs
+
+To compile and install all example programs, just run make run in this directory.
+	
+	make run
+
+
+How can you contribute to this project:
+
+You can just enjoy the different games but you can also add some if you want to be forever in the history of our school.
+There are some rules to respect in you want to contribute to this project :
+
+    - Every code you want to add must be upload in the games directory
+    - What you want to upload must be stored in a directory which must bear the name of your game
+    - There are no other restriction excpet the fact that you must include an exe.sh file (named exactly like that) which is able to compile and execute your code. You can find an exe.sh file in the exe directory if you have a makefile in your project (make run)
+
+
+
+
+We hope you will enjoy these games and also contribute to develop this app ;) 
