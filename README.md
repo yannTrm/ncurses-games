@@ -37,6 +37,8 @@ Choose a game from the menu and enjoy!
   
 - **Pacman:** Navigate Pacman through a maze, eat pellets, and avoid ghosts.
 
+- ...
+
 Feel free to explore the code to understand how each game is implemented and customize it to your liking.
 
 ## Contributing
