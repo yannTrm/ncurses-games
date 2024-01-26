@@ -41,6 +41,14 @@ Choose a game from the menu and enjoy!
 
 Feel free to explore the code to understand how each game is implemented and customize it to your liking.
 
+## About the Project
+
+
+- **Development Period:**
+  - Worked on this project in 2021 during my Engineer degree at ESME Sudria
+
+
+
 ## Contributing
 
 If you have ideas for new games, improvements, or bug fixes, feel free to contribute! Just fork the repository, make your changes, and submit a pull request.
