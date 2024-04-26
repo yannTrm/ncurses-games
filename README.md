@@ -13,7 +13,7 @@ Make sure you have Ncurses library installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
+   git clone https://github.com/yannTrm/ncurses-games.git
    cd votre-projet
     ```
 
